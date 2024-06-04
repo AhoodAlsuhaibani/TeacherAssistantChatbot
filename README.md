@@ -1,7 +1,7 @@
 # TeacherAssistantChatbot
-This project developed a chatbot to assist students in the T5 Bootcamp program. Trained on  T5 concepts, the chatbot answers student questions  24/7 via Telegram.  This chatbot empowers students to learn at their own pace and clarify doubts outside of scheduled sessions.
+This project developed a chatbot to assist students in the T5 Bootcamp program. 
 
-## What is the Chatbot?
+## What is the Teacher Assistant Chatbot?
 
 This chatbot is an intelligent virtual assistant programmed to answer your questions related to T5 content. It leverages its knowledge base, curated from T5 Bootcamp content, to provide informative and relevant responses.
 
@@ -42,6 +42,6 @@ This chatbot was developed using the following tools:
 + Google Colab: A cloud-based platform that provided the computational resources for training the chatbot model.
 + Telegram: A messaging app used as the communication channel for students to interact with the chatbot.
 
-## DEMO:
+## Demo:
 
 https://github.com/AhoodAlsuhaibani/TeacherAssistantChatbot/assets/164910593/9b04e7ec-a10c-419f-9e58-a04425ab345d
