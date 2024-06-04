@@ -43,4 +43,4 @@ This chatbot was developed using the following tools:
 
 ## DEMO:
 
-https://github.com/AhoodAlsuhaibani/TeacherAssistantChatbot/assets/164910593/ccf0fd4b-0b7d-49d8-84f2-ab999bd0a8ae
+https://github.com/AhoodAlsuhaibani/TeacherAssistantChatbot/assets/164910593/9b04e7ec-a10c-419f-9e58-a04425ab345d
