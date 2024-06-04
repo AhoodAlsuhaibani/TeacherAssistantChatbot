@@ -8,7 +8,7 @@ This chatbot is an intelligent virtual assistant programmed to answer your quest
 ## Chosen Data:
 
 The data selected was from T5 Bootcamp presentations, notebooks, and external resources like courses from YouTube.
-And the chatbot is for the T5 Bootcamp content, but can be used for any content.
+and the chatbot is for the T5 Bootcamp content, but can be used for any content.
 
 ## How to Use the Chatbot:
 
