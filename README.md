@@ -3,7 +3,11 @@ This project developed a chatbot to assist students in the T5 Bootcamp program. 
 
 ## What is the Chatbot?
 
-This chatbot is an intelligent virtual assistant programmed to answer your questions related to T5 programming concepts. It leverages its knowledge base, curated from T5 Bootcamp presentations, notebooks, and external resources, to provide informative and relevant responses.
+This chatbot is an intelligent virtual assistant programmed to answer your questions related to T5 content. It leverages its knowledge base, curated from T5 Bootcamp content, to provide informative and relevant responses.
+
+## Chosen Data:
+
+The data selected was from T5 Bootcamp presentations, notebooks, and external resources.
 
 ## How to Use the Chatbot:
 
