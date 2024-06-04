@@ -28,7 +28,7 @@ If the answer requires further clarification, feel free to ask follow-up questio
 
 ## What can the Chatbot Answer?
 
-The chatbot is trained on a comprehensive dataset encompassing various T5 bootcamp topics, including:SQL, Pyhton,Machin learining and Deep learining.
+The chatbot is trained on a comprehensive dataset encompassing various T5 bootcamp topics, including: SQL, Pyhton, Machin Learining, Deep Learining, Computer Vision, Generative AI and NLP.
 
 ## Limitations:
 
