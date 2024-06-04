@@ -34,6 +34,11 @@ The chatbot is trained on a comprehensive dataset encompassing various T5 bootca
 The chatbot is still under development, and its knowledge base is constantly expanding. It might not have answers to highly specialized or niche questions.
 Complex or open-ended questions might require human intervention from a T5 Bootcamp instructor.
 
+## DEMO:
+
+https://github.com/AhoodAlsuhaibani/TeacherAssistantChatbot/assets/164910593/ccf0fd4b-0b7d-49d8-84f2-ab999bd0a8ae
+
+
 ## Development Tools:
 
 This chatbot was developed using the following tools:
