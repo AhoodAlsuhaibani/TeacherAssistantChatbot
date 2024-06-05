@@ -35,7 +35,7 @@ This chatbot was developed using the following tools:
 
 ## Demo:
 
-https://github.com/AhoodAlsuhaibani/TeacherAssistantChatbot/assets/164910593/9b04e7ec-a10c-419f-9e58-a04425ab345d
+https://github.com/AhoodAlsuhaibani/TeacherAssistantChatbot/assets/164910593/352a6e87-4ebe-4720-b66d-9b63511dc623
 
 ## Conclusion:
 The Teacher Assistant Chatbot offers a valuable tool for T5 Bootcamp students, providing continuous support and enhancing the learning experience. Its potential extends beyond T5, with a flexible design that can be adapted to various domains as its knowledge base expands.  We are actively developing the chatbot to further improve its capabilities, with exciting areas of exploration including speech recognition and text-to-speech, image recognition integration, and multilingual support (including Arabic). By incorporating these advancements, the Teacher Assistant Chatbot will become an even more powerful tool for enhancing learning across various domains.
